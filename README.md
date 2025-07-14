@@ -25,4 +25,4 @@ Diagram 1: Completed circuit
 
 <img width="932" height="545" alt="Capture" src="https://github.com/user-attachments/assets/6eb4369d-f50a-4e9e-bbb9-da3e2df4f0dc" />
 
-Figure 2: Completed PCB
+Figure 1: Completed PCB
