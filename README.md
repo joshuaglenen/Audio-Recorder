@@ -5,7 +5,9 @@ I designed a lightweight audio recorder that samples audio when a button is push
 
 
 <img width="3507" height="2480" alt="Untitled" src="https://github.com/user-attachments/assets/8034e723-c1d5-44f0-b7af-ac122d7a806e" />
+
 Diagram 1: Completed circuit
 
 <img width="863" height="591" alt="Capture" src="https://github.com/user-attachments/assets/72116734-36f5-41b2-b972-c85a7a47114a" />
+
 Figure 2: Completed PCB
