@@ -2,9 +2,9 @@
 
 #define micPin 4
 #define pushButton 47
-#define rgb_r 37
-#define rgb_g 36
-#define rgb_b 35
+#define rgb_r 18
+#define rgb_g 17
+#define rgb_b 16
 #define SD_MMC_CMD 38 //Please do not modify it.
 #define SD_MMC_CLK 39 //Please do not modify it. 
 #define SD_MMC_D0  40 //Please do not modify it.
